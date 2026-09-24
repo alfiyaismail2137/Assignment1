@@ -1,4 +1,4 @@
-# Assignment1
+# Assignment
 My First Assignment
 ## Mean , Median and Mode
 Mean, median and mode are '_Measures of central tendency_' in statistics.
